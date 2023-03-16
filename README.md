@@ -2,6 +2,12 @@
 ## Created by Sam Altshuler
 ## 05/15/20
 
+
+
+[![DOI](https://zenodo.org/badge/527676624.svg)](https://zenodo.org/badge/latestdoi/527676624)
+
+
+
 Files Needed:
 1.	R Scripts
   * Interaction_Networking.R
